@@ -14,7 +14,9 @@ Welcome to my portfolio! i'm an Economics graduate with experience in financial 
 
 ### Featured Projects
 -[Insurance Risk Analysis Dashboard](#) - R programming EDA and tableau dashboad amalyzing 1300+ policies
+
 -[Github Developer Survey Analysis](#) - Python analysis of programming trends
+
 -[Time Series Forecasting](#) - ARIMA/SARIMA models foe business forecasting
 
 [View All Projects](projects.md) 
