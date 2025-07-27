@@ -13,7 +13,7 @@ Welcome to my portfolio! i'm an Economics graduate with experience in financial 
 -**Domain:** Financial Services, Insurance, Economic Analysis
 
 ### Featured Projects
--[Insurance Risk Analysis Dashboard](#) - R programming EDA and tableau dashboad amalyzing 1300+ policies
+-[Insurance Risk Analysis Dashboard](#) - R programming EDA and tableau dashboad analyzing 1300+ policies
 
 
 -[Github Developer Survey Analysis](#) - Python analysis of programming trends
