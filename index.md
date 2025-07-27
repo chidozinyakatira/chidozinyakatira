@@ -19,7 +19,7 @@ Welcome to my portfolio! i'm an Economics graduate with experience in financial 
 -[Github Developer Survey Analysis](#) - Python analysis of programming trends
 
 
--[Time Series Forecasting](#) - ARIMA/SARIMA models foe business forecasting
+-[Time Series Forecasting](#) - ARIMA/SARIMA models for business forecasting
 
 
 [View All Projects](projects.md) 
