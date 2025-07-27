@@ -5,8 +5,11 @@ Welcome to my portfolio! i'm an Economics graduate with experience in financial 
 
 ### Key Skills
 -**Programming:** Python,R
+
 -**Visualization:** Tableau, matplotlib, seaborn
+
 -**Analysis:** Statistical modeling, Machine learning, Time Series
+
 -**Domain:** Financial Services, Insurance, Economic Analysis
 
 ### Featured Projects
