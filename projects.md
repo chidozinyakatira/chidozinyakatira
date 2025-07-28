@@ -21,7 +21,9 @@ Here is a visual walkthrough of my tableau Dashboard
 ![Screenshot 7](/assets/images/Capture 6.PNG)
 ![Screenshot 8](/assets/images/Capture 7.PNG)
 
+### Project Files
 
+[View R Script]
 [View Dashboard](#) | [Github Repository](#)
 
 ---
