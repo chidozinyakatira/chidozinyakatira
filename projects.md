@@ -23,7 +23,7 @@ Here is a visual walkthrough of my tableau Dashboard
 
 ### Project Files
 
-[View R Script](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Project%201.R)
+[View R Script](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Project%201.R)|
 [View Dashboard](#) | [Github Repository](#)
 
 ---
