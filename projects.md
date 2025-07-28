@@ -24,6 +24,6 @@ Here is a visual walkthrough of my tableau Dashboard
 ### Project Files
 
 [View R Script](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Project%201.R)|
-[View Dashboard](#) | [Github Repository](#)
+[View Dashboard](https://public.tableau.com/views/HealthInsurancedashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Github Repository](#)
 
 ---
