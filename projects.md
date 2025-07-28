@@ -10,6 +10,12 @@ Run EDA and hypothesis testing in R and created  an interactive dashboard analyz
 -Provided actionable recommendations for premium pricing
 -Improved risk assessment accuracy through statistical modeling
 
+Here is a visual walkthrough of my tableau Dashboard
+
+![Screenshot 1](/assets/images/Capture.png)
+![Screenshot 2](/assets/images/capture1.png)
+
+
 [View Dashboard](#) | [Github Repository](#)
 
 ---
