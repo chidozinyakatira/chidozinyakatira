@@ -12,8 +12,8 @@ Run EDA and hypothesis testing in R and created  an interactive dashboard analyz
 
 Here is a visual walkthrough of my tableau Dashboard
 
-![Screenshot 1](/assets/images/Capture.png)
-![Screenshot 2](/assets/images/capture1.png)
+![Screenshot 1](/assets/images/Capture.PNG)
+![Screenshot 2](/assets/images/capture1.PNG)
 
 
 [View Dashboard](#) | [Github Repository](#)
