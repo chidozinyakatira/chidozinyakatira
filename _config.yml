@@ -1,6 +1,15 @@
-theme: pages-themes/architect
+remote_theme: pages-themes/architect
 title: chidozinyakatira
 descripition: This is my GitHub Pages site
 title: This is my portfolio Site
 description: Welcome to my Data analytics and Data science Projects
 Author: Chido S Zinyakatira
+
+#Plugins
+plugins:
+-jekyll-remote-theme
+-jekyll-sitemap
+-jekyll-feed
+
+markdown:kramdown
+highlighter: rouge
