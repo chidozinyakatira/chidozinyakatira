@@ -27,3 +27,21 @@ Here is a visual walkthrough of my tableau Dashboard
 [View Dashboard](https://public.tableau.com/views/HealthInsurancedashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Github Repository](#)
 
 ---
+
+## Customer Segmentation Dashboard
+**Tools:** Tableau, R
+# Overview
+K-Means clustering analysis to identify distinct customer segments based on spending score
+# Key findings
+-Identified 6 distinct customer clusters
+-Premium Young Professionals show highest spending potential
+## Dashboard Features
+-Interactive scatter plot visualization
+-Cluster specific insights
+- Gender based spending analysis
+- Summary with key metrics
+
+
+
+
+
