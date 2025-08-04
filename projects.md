@@ -44,8 +44,8 @@ K-Means clustering analysis to identify distinct customer segments based on spen
 ## Screenshots
 Here is a visual walkthrough of my tableau Dashboard
 
-![Screenshot 1](/assets/images/Dashboard1.PNG)
-![Screenshot 2](/assets/images/Dashboard2.PNG)
+![Screenshot 1](/assets/images/Dashboard1.png)
+![Screenshot 2](/assets/images/Dashboard2.png)
 
 ## Project Files
 [View Dashboard](https://public.tableau.com/views/KmeansClustering_17543408802920/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
