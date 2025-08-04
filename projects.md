@@ -41,6 +41,14 @@ K-Means clustering analysis to identify distinct customer segments based on spen
 - Gender based spending analysis
 - Summary with key metrics
 
+## Screenshots
+Here is a visual walkthrough of my tableau Dashboard
+
+![Screenshot 1](/assets/images/dashboard1.PNG)
+![Screenshot 2](/assets/images/dashboard2.PNG)
+
+## Project Files
+[View Dashboard](https://public.tableau.com/views/KmeansClustering_17543408802920/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
