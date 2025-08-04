@@ -49,6 +49,9 @@ Here is a visual walkthrough of my tableau Dashboard
 
 ## Project Files
 [View Dashboard](https://public.tableau.com/views/KmeansClustering_17543408802920/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View R Script](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Kmeans%20Clustering.R)
+
+---
 
 
 
