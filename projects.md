@@ -54,16 +54,25 @@ Here is a visual walkthrough of my tableau Dashboard
 ---
 
 ## Programming Language Popularity forecast
+
 **tools:** Python
+
 # Overview
 This project analyzes and forecasts the popularity trends of three major programming languages: C++, Java, and Python using time series forecasting techniques. The analysis employs SARIMA (Seasinal Autoregressive Integrated Moving Average) modeling to predict future popularity bases on historical data patterns.
 # Key Methodology
+
 **Data Preprocessing:** Stationarity tests using Adfuller tests and data transformation
+
 **Seasonal Decomposition:** Breaking downtime series into trend, seasonal, and residual components.
+
 **Model Selection:** SARIMA(1,1,1)(1,1,1,52) was chosen for C++ and Python and SARIMA(2,1,1)(1,1,1,52) for Java bases on model diagonostics and performance metrics.
+
 **Validation:** An analysis of residuals was conducted
+
 **Accuracy:** Comparison of 12-week forecasts against actual observed values
+
 # Appropriateness of Model Chosen
+
 Appropriateness of chosen forecasting method
 Python
 From the plot of fitted data , i see the model captures both the general trend and seasonal fluctuations effectively, the strong alignment between actual and fitted values indicates the model parameters are well calibrated
