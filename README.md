@@ -19,7 +19,7 @@ Career Guidance Chatbot (NLP + LLM + Streamlit)
 An intelligent career guidance chatbot built using Natural Language Processing, Recommendation Systems, and LLM-powered conversation.
 This project collects a user’s preferences through a friendly interview-style chat, analyzes their responses, matches them to the most relevant academic programs, and provides personalized explanations using Groq LLaMA-3.1.
 
- Live Demo: []
+ Live Demo: [https://chidozinyakatira-3jorr75gzwtdgqxvc3uyur.streamlit.app/]
  Repository: 
 
  Features
