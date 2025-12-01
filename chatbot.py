@@ -14,7 +14,7 @@ import time
 # CONFIG: set your Groq key here
 # ------------------------------
 import os
-GROQ_API_KEY = os.getevn("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama-3.1-8b-instant"
 
@@ -316,4 +316,5 @@ if st.session_state.mode == "recommend":
         st.session_state.mode = "interview"
         st.session_state.history = []
         st.rerun()
+
 
