@@ -150,7 +150,7 @@ This analysis demonstrates how distributed computing can support data-driven int
 
 # Screenshots
 ![Screenshot 1](/assets/images/Question1hdfscommands.png)
-![Screenshot 2](/assets/images/Top5_Countries_Chart.png)
+
 
 # Project Files
 [View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
