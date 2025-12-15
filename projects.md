@@ -152,10 +152,10 @@ This analysis demonstrates how distributed computing can support data-driven int
 
 ![Screenshot 1](/assets/images/Hadoop sales by country txt.png)
 ![Screenshot 2](/assets/images/MapReduce commands.png)
-![Screenshot 1](/assests/images/MapReduce success.png)
-![Screenshot 2](/assets/Question 1 hdfs commands part 2.png)
-![Screenshot 1](/assests/Question 1 hdfs commands.png)
-![Screenshot 2](/assets/images/Top5_Countries_Chart.png)
+![Screenshot 3](/assests/images/MapReduce success.png)
+![Screenshot 4](/assets/Question 1 hdfs commands part 2.png)
+![Screenshot 5](/assests/Question 1 hdfs commands.png)
+![Screenshot 6](/assets/images/Top5_Countries_Chart.png)
 
 ---
   
