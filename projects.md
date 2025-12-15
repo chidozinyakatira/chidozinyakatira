@@ -150,12 +150,10 @@ This analysis demonstrates how distributed computing can support data-driven int
 
 # Screenshots
 
-![Screenshot 1](/assets/images/Hadoop sales by country txt.png)
-![Screenshot 2](/assets/images/MapReduce commands.png)
-![Screenshot 3](/assests/images/MapReduce success.png)
-![Screenshot 4](/assets/Question 1 hdfs commands part 2.png)
-![Screenshot 5](/assests/Question 1 hdfs commands.png)
-![Screenshot 6](/assets/images/Top5_Countries_Chart.png)
+![Screenshot 1](/assets/images/MapReduce commands.png)
+![Screenshot 2](/assets/Question 1 hdfs commands part 2.png)
+![Screenshot 3](/assests/Question 1 hdfs commands.png)
+![Screenshot 4](/assets/images/Top5_Countries_Chart.png)
 
 # Project Files
 [View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
