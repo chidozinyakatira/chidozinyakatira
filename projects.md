@@ -158,10 +158,10 @@ This analysis demonstrates how distributed computing can support data-driven int
 ![Screenshot 6](/assets/images/Top5_Countries_Chart.png)
 
 # Project Files
-[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
-[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
-[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
-[View my txt File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
+[View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
+[View my mapper File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/mapper.R)
+[View my Reducer File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/reducer.R)
+[View my visualisation File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/visualisation.R)
 
 ---
   
