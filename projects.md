@@ -100,6 +100,63 @@ The fitted vs actual comparison shows the model captures both trend and seasonal
 # Project Files
 [View my python File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
 
+## Online Retail Country Revenue Analysis (Hadoop & R)
+
+ **Project Overview**
+This project analyzes sales data from a UK-based online retail company (2009–2011) to evaluate revenue performance across countries. The goal is to support strategic international market expansion decisions using distributed data processing.
+
+**Dataset**
+
+Source: UCI / Kaggle Online Retail II Dataset
+
+Records include invoice numbers, product codes, quantities, prices, and country of shipment.
+
+**Technologies Used**
+
+Hadoop (HDFS)
+
+MapReduce (R)
+
+R (data processing & visualization)
+
+ggplot2
+
+**Methodology**
+
+Loaded raw transactional data into HDFS.
+
+Cleaned data by removing:
+
+Records with null country values
+
+Records with non-positive quantities
+
+Implemented a MapReduce job in R to compute total revenue per country.
+
+Sorted results in descending order to identify top markets.
+
+Visualized the top 5 countries by revenue using a bar chart.
+
+**Key Insights**
+
+Revenue is highly concentrated in a small number of European countries.
+
+Top-performing markets represent strong candidates for further investment.
+
+Lower-performing countries may require targeted marketing or operational review.
+
+**Business Value**
+This analysis demonstrates how distributed computing can support data-driven international expansion strategies in retail.
+
+# Screenshots
+
+![Screenshot 1](/assets/images/)
+![Screenshot 2]()
+![Screenshot 1]()
+![Screenshot 2]()
+![Screenshot 1]()
+![Screenshot 2](/assets/images/Dashboard2.png)
+
 ---
   
 
