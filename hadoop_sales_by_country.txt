@@ -1,0 +1,43 @@
+United Kingdom	17542734.77
+EIRE	658822.11
+Netherlands	544040.83
+Germany	426494.09
+France	355175.71
+Australia	167878.55
+Spain	108560.07
+Switzerland	100107.81
+Sweden	91016.92
+Denmark	69227.71
+Belgium	65342.99
+Norway	59837.22
+Portugal	57628.81
+Japan	46403.75
+Channel Islands	44619.56
+Italy	31572.04
+Finland	29732.74
+Singapore	25217.36
+Cyprus	24548.96
+Hong Kong	23775.52
+Austria	23494.41
+Greece	18820.97
+Israel	11154.26
+United Arab Emirates	10869.45
+Poland	10790.55
+Unspecified	10778.37
+USA	8358.36
+Malta	8032.15
+Lithuania	6543.54
+Iceland	5582.32
+RSA	4790.82
+Canada	4770.86
+Bahrain	3076.79
+Thailand	3070.54
+Lebanon	1905.58
+Brazil	1404.27
+European Community	1300.25
+Bermuda	1253.14
+Korea	1118.51
+Czech Republic	826.74
+West Indies	536.41
+Saudi Arabia	145.92
+Nigeria	140.39
