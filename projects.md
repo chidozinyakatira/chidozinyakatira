@@ -157,6 +157,12 @@ This analysis demonstrates how distributed computing can support data-driven int
 ![Screenshot 5](/assests/Question 1 hdfs commands.png)
 ![Screenshot 6](/assets/images/Top5_Countries_Chart.png)
 
+# Project Files
+[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
+[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
+[View my R File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
+[View my txt File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/_Project%201%20(5).ipynb)
+
 ---
   
 
