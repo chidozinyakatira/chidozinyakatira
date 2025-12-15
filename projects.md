@@ -149,7 +149,6 @@ Lower-performing countries may require targeted marketing or operational review.
 This analysis demonstrates how distributed computing can support data-driven international expansion strategies in retail.
 
 # Screenshots
-
 ![Screenshot 1](/assets/images/MapReduce commands.png)
 ![Screenshot 2](/assets/Question 1 hdfs commands part 2.png)
 ![Screenshot 3](/assests/Question 1 hdfs commands.png)
