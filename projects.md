@@ -152,7 +152,7 @@ This analysis demonstrates how distributed computing can support data-driven int
 ![Screenshot 1](/assets/images/Question1hdfscommands.png)
 
 
-# Project Files
+### Project Files
 [View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
 [View my mapper File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/mapper.R)
 [View my Reducer File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/reducer.R)
@@ -195,7 +195,7 @@ User Defined Functions (UDFs)
 Big data analytics
 
 Inventory strategy support  
-[View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
+[View my project File](hive project.pdf)
 
 
 
