@@ -195,7 +195,7 @@ User Defined Functions (UDFs)
 Big data analytics
 
 Inventory strategy support  
-[View my project File](hive project.pdf)
+[View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/hive%20project.pdf)
 
 
 
