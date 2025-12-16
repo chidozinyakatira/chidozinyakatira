@@ -197,7 +197,48 @@ Big data analytics
 Inventory strategy support  
 [View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/hive%20project.pdf)
 
+## Customer Feedback Text Pattern Analysis (Pig & Hive)
 
+**Project Overview**
+This project analyzes customer review text from Amazon products to uncover recurring complaint patterns and satisfaction drivers. The analysis focuses on identifying frequently occurring keywords in non-neutral reviews to support product and customer experience improvements.
+
+**Dataset**
+
+Source: Amazon Product Review Sample (Kaggle)
+
+Fields include review title, review text, product name, and star rating.
+
+**Technologies Used**
+
+Hadoop (HDFS)
+
+Apache Pig
+
+Hive
+
+**Methodology**
+
+Loaded raw review data into HDFS.
+
+Used Apache Pig to extract review titles and filter out neutral reviews (rating = 3).
+
+Tokenised review titles and computed word frequencies to identify common themes.
+
+Loaded processed outputs into Hive and created a view of the top 10 most frequent words.
+
+**Key Insights**
+
+Frequently occurring terms highlight common customer pain points such as product quality, packaging, or usability.
+
+Text pattern analysis provides scalable insight into customer sentiment without manual review.
+
+**Business Value**
+This approach enables marketing and product teams to prioritise improvements based on real customer feedback trends, improving satisfaction and reducing returns.
+### Project Files
+[View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
+[View my mapper File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/mapper.R)
+[View my Reducer File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/reducer.R)
+[View my visualisation File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/visualisation.R)
 
 
 
