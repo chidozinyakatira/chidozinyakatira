@@ -235,10 +235,10 @@ Text pattern analysis provides scalable insight into customer sentiment without 
 **Business Value**
 This approach enables marketing and product teams to prioritise improvements based on real customer feedback trends, improving satisfaction and reducing returns.
 ### Project Files
-[View my clean data File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
-[View my mapper File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/mapper.R)
-[View my Reducer File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/reducer.R)
-[View my visualisation File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/visualisation.R)
+[View my filtered reviews pig file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/filter_reviews_v2.pig)
+[View my filtered reviews output file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/part-m-00000)
+[View my word frequency output file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/part-r-00000)
+[View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/visualisation.R)
 
 
 
