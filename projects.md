@@ -415,5 +415,55 @@ This system enables scalable, data-driven career guidance, supporting learners i
 
 [View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Question%201%20and%202%20(2).ipynb)
 
+---
+## News Topic Modelling Using Web Scraping and NLP
 
+**Project Overview**
+This project analyses trending news topics by scraping articles from News24 and applying natural language processing and topic modelling techniques. The objective is to identify latent themes in current news coverage and understand topic distributions across articles.
 
+**Dataset**
+
+Ten scraped News24 articles
+
+Fields: article ID, title, raw content, cleaned content, sentiment polarity
+
+**Technologies Used**
+
+Python
+
+Web scraping (BeautifulSoup / Requests)
+
+NLP (text preprocessing, sentiment analysis)
+
+TF & TF-IDF
+
+Latent Dirichlet Allocation (LDA)
+
+pyLDAvis
+
+**Methodology**
+
+Scraped news article URLs and built a structured dataset.
+
+Cleaned and denoised article text and computed sentiment polarity.
+
+Performed term frequency analysis and generated word clouds.
+
+Built TF-IDF matrices to identify salient terms.
+
+Applied LDA topic modelling to extract four dominant topics.
+
+Visualised topic distributions and relationships using pyLDAvis.
+
+**Key Insights**
+
+Topic modelling reveals dominant themes such as politics, economy, crime, and social issues.
+
+TF-IDF highlights distinctive vocabulary separating topics.
+
+pyLDAvis improves interpretability of topic overlap and salience.
+
+**Business Value**
+This analysis enables media organisations to track trending topics, guide editorial focus, and support content strategy using automated text analytics.
+
+[View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Question%203%20and%204.ipynb)
