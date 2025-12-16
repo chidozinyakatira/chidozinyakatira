@@ -159,6 +159,46 @@ This analysis demonstrates how distributed computing can support data-driven int
 [View my visualisation File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/visualisation.R)
 
 ---
-  
+## Product Demand Categorisation Using Hive
+
+**Objective**
+To classify products based on demand levels using distributed SQL analytics in Hive, supporting inventory and supply chain decision-making.
+
+**Approach**
+
+Loaded cleaned transactional data into Hive using an external table schema.
+
+Calculated total quantity sold per product using Hive aggregation queries.
+
+Developed a custom Hive UDF  to categorise products into:
+
+High Demand
+
+Medium Demand
+
+Low Demand
+
+**Business Value**
+
+High-demand products can be prioritised for restocking.
+
+Medium-demand products can be supported through targeted promotions.
+
+Low-demand products can be reviewed for discontinuation or bundling strategies.
+
+**Key Skills Demonstrated**
+
+Hive DDL & querying
+
+User Defined Functions (UDFs)
+
+Big data analytics
+
+Inventory strategy support  
+[View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/clean_data.R)
+
+
+
+
 
 
