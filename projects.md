@@ -363,7 +363,57 @@ Accurate volatility forecasts enable better risk management, pricing of financia
 
 ---
 
+## Course Recommendation System Using NLP and Machine Learning
 
+**Project Overview**
+This project develops a text-based course recommender system that suggests suitable career paths based on a learner’s written narrative. The system leverages natural language processing and machine learning to align user interests with relevant course categories.
+
+**Dataset**
+
+Career and course descriptions
+
+Labeled course categories
+
+Technologies Used
+
+Python
+
+NLP (text preprocessing, TF-IDF)
+
+Scikit-learn
+
+Machine Learning classifiers
+
+Cosine Similarity
+
+**Methodology**
+
+Cleaned and denoised raw text data using standard NLP preprocessing techniques.
+
+Transformed textual data into numerical features using TF-IDF vectorization.
+
+Addressed class imbalance using resampling techniques.
+
+Trained multiple ML models using 5-fold cross-validation.
+
+Evaluated models using accuracy, precision, recall, and F1-score.
+
+Selected the best-performing model based on F1-score.
+
+Implemented a cosine similarity-based recommender to suggest the top 10 relevant courses from user input.
+
+**Key Findings**
+
+Proper text preprocessing significantly improves classification performance.
+
+Balancing datasets improves recall for underrepresented course categories.
+
+Cosine similarity effectively matches learner narratives to relevant career paths.
+
+**Business Value**
+This system enables scalable, data-driven career guidance, supporting learners in making informed education investment decisions.
+
+[View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Question%201%20and%202%20(2).ipynb)
 
 
 
