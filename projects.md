@@ -284,4 +284,47 @@ This approach enables scalable, database-native churn prediction, allowing analy
 
 [View my filtered reviews pig file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Postgres%20and%20madlib.pdf)
 
+## Forecasting Monthly Tourist Arrivals Using SARIMA
+
+**Project Overview**
+This project forecasts monthly tourist arrivals for SafariVista Lodge using time series methods to support operational planning. The analysis compares Holt-Winters and SARIMA models to determine the most suitable forecasting approach for strongly seasonal tourism data.
+
+**Dataset**
+
+Monthly tourist arrivals from January 2001 to December 2020
+
+Variables: Date, Number of Visits
+
+**Methodology**
+
+Parsed and indexed time series data.
+
+Performed seasonal decomposition to identify trend and recurring seasonal patterns.
+
+Implemented Holt-Winters (Triple Exponential Smoothing) as a baseline model.
+
+Tested for stationarity and fitted a Seasonal ARIMA (SARIMA) model.
+
+Compared models using forecast accuracy metrics and residual diagnostics.
+
+Generated 12-month forecasts for operational planning.
+
+**Key Findings**
+
+The data exhibits strong annual seasonality and a non-stationary trend.
+
+Holt-Winters captures seasonality but underperforms during structural changes.
+
+SARIMA provides superior forecast accuracy and better residual diagnostics, making it more suitable for this dataset.
+
+**Business Value**
+The SARIMA forecasts enable improved staffing schedules, supply ordering, and activity planning by anticipating seasonal fluctuations in tourist demand
+
+[View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Question%201%20and%202%20(1).ipynb)
+
+
+
+
+
+
 
