@@ -322,7 +322,46 @@ The SARIMA forecasts enable improved staffing schedules, supply ordering, and ac
 
 [View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Question%201%20and%202%20(1).ipynb)
 
+---
+## Stock Market Volatility Forecasting Using ARCH and GARCH
 
+**Project Overview**
+This project models and forecasts stock return volatility for EduNext Technologies using ARCH and GARCH models. The objective is to quantify market risk and support risk-adjusted investment decisions under market uncertainty.
+
+**Dataset**
+
+Daily stock prices including open, close, high, low, and trading volume
+
+Log returns computed from closing prices
+
+**Methodology**
+
+Tested stock prices for random walk behaviour and detrended the series where required.
+
+Transformed prices into log returns to ensure stationarity.
+
+Tested for ARCH effects to detect time-varying volatility.
+
+Fitted ARCH(1) and ARCH(2) models to capture short-term volatility dependence.
+
+Implemented GARCH(1,1) to model persistent volatility clustering.
+
+Evaluated models using Ljung–Box and Engle ARCH diagnostics.
+
+**Key Findings**
+
+Stock returns exhibit volatility clustering, a hallmark of financial time series.
+
+ARCH models capture short-term variance dynamics but decay too quickly.
+
+GARCH(1,1) outperforms ARCH models by capturing long-run volatility persistence.
+
+**Business Value**
+Accurate volatility forecasts enable better risk management, pricing of financial instruments, and informed investment strategy decisions.
+
+[View my python file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Questions%203%20and%204%20(1).ipynb)
+
+---
 
 
 
