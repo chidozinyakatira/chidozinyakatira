@@ -240,53 +240,6 @@ This approach enables marketing and product teams to prioritise improvements bas
 [View my word frequency output file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/part-r-00000)
 [View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Apache%20pig%20and%20hive.pdf)
 
-## Customer Retention Modelling with PostgreSQL and MADlib
-
-**Project Overview**
-This project builds a customer churn prediction model for a telecom provider using PostgreSQL and MADlib. The objective is to predict customer churn using in-database machine learning and translate results into actionable retention strategies.
-
-**Dataset**
-
-Source: Telco Customer Churn Dataset (Kaggle)
-
-Features include customer demographics, account details, service usage, and churn status.
-
-**Technologies Used**
-
-PostgreSQL
-
-MADlib
-
-SQL
-
-Logistic Regression
-
-**Methodology**
-
-Imported raw churn data into PostgreSQL and created a cleaned analytical table.
-
-Trained a logistic regression model using MADlib with tenure, contract type, and monthly charges as predictors.
-
-Evaluated model performance using accuracy metrics and confusion matrix queries.
-
-Interpreted model coefficients to identify churn drivers.
-
-**Key Insights**
-
-Short-tenure customers on flexible contracts exhibit higher churn risk.
-
-Higher monthly charges are associated with increased likelihood of churn.
-
-Long-term contracts significantly reduce churn probability.
-
-**Business Value**
-This approach enables scalable, database-native churn prediction, allowing analysts to update models and generate predictions directly on live customer data.
-
-### Project Files
-[View my filtered reviews pig file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/filter_reviews_v2.pig)
-[View my filtered reviews output file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/part-m-00000)
-[View my word frequency output file](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/part-r-00000)
-[View my project File](https://github.com/chidozinyakatira/chidozinyakatira/blob/main/Apache%20pig%20and%20hive.pdf)
 
 ---
 ## Customer Retention Modelling with PostgreSQL and MADlib
