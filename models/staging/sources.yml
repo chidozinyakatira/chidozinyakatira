@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: world_bank_raw
+    database: summer-sun-490113-a4
+    schema: african_economics_raw
+    description: "Raw World Bank economic indicators ingested via Python pipeline"
+    tables:
+      - name: world_bank_indicators
+        description: "One row per country-indicator-year combination"
+        columns:
+          - name: ingestion_id
+            description: "Unique key - format: country_iso_indicator_code_year"
+          - name: country_iso
+            description: "ISO 2-3 letter country code"
+          - name: indicator_name
+            description: "Human-readable indicator name e.g. gdp_per_capita_usd"
+          - name: year
+            description: "Data year - integer"
+          - name: value
+            description: "Indicator value - NULL means World Bank did not report data"
+          - name: ingested_at
+            description: "UTC timestamp of when the Python pipeline loaded this row"
